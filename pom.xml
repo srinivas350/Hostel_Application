@@ -47,7 +47,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-	<finalName>HostelApplication</finalName>
+	<finalName>hostelapplication</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
