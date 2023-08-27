@@ -1,4 +1,4 @@
 FROM openjdk:11
 EXPOSE 2022
-COPY target/HostelApplication.jar HostelApplication.jar
-ENTRYPOINT ["java","-jar","/HostelApplication.jar"]
+COPY target/hostelapplication.jar hostelapplication.jar
+ENTRYPOINT ["java","-jar","/hostelapplication.jar"]
