@@ -1,0 +1,12 @@
+com\room\entity\Room.class
+com\room\entity\RoomMate.class
+com\room\Room_Application\HostelApplication.class
+com\room\entity\Address.class
+com\room\services\RoomMateService.class
+com\room\services\RoomService.class
+com\room\repository\RoomMatesRepository.class
+com\room\repository\RoomRepository.class
+com\room\services\RoomMateServiceImpl.class
+com\room\controller\RoomController.class
+com\room\controller\RoomMateController.class
+com\room\services\RoomServiceImpl.class
