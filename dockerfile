@@ -22,7 +22,7 @@ services:
 
 
      # Oracle configuration
-      - spring.datasource.url=jdbc:oracle:thin:@//oracle:1521/ORCLPDB1
+      - spring.datasource.url=jdbc:oracle:thin:@//localhost:1521:xe
       - spring.datasource.username=system
       - spring.datasource.password=manager
       - spring.datasource.testWhileIdle=true
