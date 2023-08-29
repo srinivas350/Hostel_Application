@@ -5,7 +5,7 @@ ENTRYPOINT ["java","-jar","/hostelapplication.jar"]
 
 
  # Oracle configuration
-  - spring.datasource.url=jdbc:oracle:thin:@//localhost:1521:xe
+  - spring.datasource.url=jdbc:oracle:thin:@localhost:1521:xe
   - spring.datasource.username=system
   - spring.datasource.password=manager
   - spring.datasource.testWhileIdle=true
