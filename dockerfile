@@ -11,4 +11,4 @@ ENTRYPOINT ["java","-jar","/hostelapplication.jar"]
   - spring.datasource.testWhileIdle=true
   - spring.datasource.validationQuery=SELECT 1
   - spring.jpa.show-sql=true
-  - spring.jpa.hibernate.ddl-auto=create-drop
+  - spring.jpa.hibernate.ddl-auto=update
